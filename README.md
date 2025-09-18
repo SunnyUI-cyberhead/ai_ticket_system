@@ -50,8 +50,8 @@ An intelligent, AI-powered support ticket classification system that combines tr
 
 1. **Clone the repository**
    ```bash
-git clone https://github.com/SunnyUI-cyberhead/ai_ticket_system.git
-cd ai_ticket_system
+   git clone https://github.com/SunnyUI-cyberhead/ai_ticket_system.git
+   cd ai_ticket_system
    ```
 
 2. **Set up virtual environment**
