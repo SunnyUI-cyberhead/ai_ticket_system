@@ -8,6 +8,16 @@ An intelligent, AI-powered support ticket classification system that combines tr
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-3-blue.svg)
 
+## 📸 Screenshots
+
+### Main Interface
+[![Main Interface](https://drive.google.com/uc?export=view&id=1hS_09w0FewFZlCIRgt-j_UhjJfEvNgQS)](https://drive.google.com/file/d/1hS_09w0FewFZlCIRgt-j_UhjJfEvNgQS/view?usp=sharing)
+*AI-powered ticket classification with real-time analysis*
+
+### Analytics Dashboard
+[![Analytics Dashboard](https://drive.google.com/uc?export=view&id=1VLfdcSLxNIPYLTeOovos96YBxz-tnNKQ)](https://drive.google.com/file/d/1VLfdcSLxNIPYLTeOovos96YBxz-tnNKQ/view?usp=sharing)
+*Comprehensive analytics with interactive charts and ticket history*
+
 ## ✨ Features
 
 ### 🎯 Smart Classification
